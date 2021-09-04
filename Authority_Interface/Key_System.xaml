@@ -1,0 +1,45 @@
+﻿<Window x:Class="__UI_____Panda_A_.Authority_Interface.Key_System"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:__UI_____Panda_A_.Authority_Interface"
+        mc:Ignorable="d"
+        Title="KeySystem" WindowStyle="None" WindowStartupLocation="CenterScreen" BorderThickness="0" AllowsTransparency="True" Background="Transparent" Height="368.666" Width="685.019">
+    <Grid Margin="0,0,-0.321,-0.396">
+        <Border x:Name="MainBorder" BorderBrush="#191919"  CornerRadius="8" Background="#141414" BorderThickness="1" Margin="10,25,0,0" MouseDown="MainBorder_MouseDown" Height="337" VerticalAlignment="Top" HorizontalAlignment="Left" Width="641">
+            <Border.Effect>
+                <DropShadowEffect ShadowDepth="0" BlurRadius="20"/>
+            </Border.Effect>
+            <Grid HorizontalAlignment="Left" Width="621" Margin="9.094,9.094,0,0" Height="317" VerticalAlignment="Top">
+                <Label  Cursor="Hand" x:Name="Close" Content="&#xE8BB;" Foreground="White" VerticalAlignment="Top" Margin="597,0,0,0" FontFamily="Segoe MDL2 Assets" FontSize="10" MouseDown="Close_MouseDown" HorizontalAlignment="Left" Width="24"/>
+                <Label  Cursor="Hand" x:Name="Minimize" Content="&#xE921;" Foreground="White" VerticalAlignment="Top" Margin="577,0,0,0" FontFamily="Segoe MDL2 Assets" FontSize="11" MouseDown="Minimize_MouseDown" HorizontalAlignment="Left" Width="18" Height="19"/>
+                <Image Height="165" Source="{StaticResource pandaofficiallogo}" VerticalAlignment="Top" Margin="376,26,0,0" HorizontalAlignment="Left" Width="184"/>
+                <TextBox Style="{DynamicResource HoverTextBox}" x:Name="InputBox" Height="25" Text="" TextAlignment="Center" BorderThickness="1" Background="#141414" Foreground="White" BorderBrush="#191919" MaxLength="30" TextWrapping="Wrap" VerticalAlignment="Top" Margin="308,205,25,0">
+                    <TextBox.Effect>
+                        <DropShadowEffect ShadowDepth="0"/>
+                    </TextBox.Effect>
+                </TextBox>
+
+                <Button Style="{DynamicResource HoverButton}" x:Name="RetrieveKey" Background="#141414" Foreground="White" BorderBrush="#191919" Content="Retrieve Key" HorizontalAlignment="Left" VerticalAlignment="Top" Width="133" Margin="301,257,0,0" Click="RetrieveKey_Click" Height="26">
+                    <Button.Effect>
+                        <DropShadowEffect ShadowDepth="0"/>
+                    </Button.Effect>
+                </Button>
+                <Button Style="{DynamicResource HoverButton}" Background="#141414" Foreground="White" BorderBrush="#191919" Content="Continue" HorizontalAlignment="Left" VerticalAlignment="Top" Width="133" Margin="453,257,0,0" Click="Button_Click" Height="26" RenderTransformOrigin="0.429,0.5">
+                    <Button.Effect>
+                        <DropShadowEffect x:Name="Continue" ShadowDepth="0"/>
+                    </Button.Effect>
+                </Button>
+                <RichTextBox  Background="{x:Null}" Margin="11,14,325,10" x:Name="kek" Foreground="White" FontSize="10" >
+                    <RichTextBox.Resources>
+                        <Style TargetType="{x:Type Paragraph}">
+                            <Setter Property="Margin" Value="0"/>
+                        </Style>
+                    </RichTextBox.Resources>
+                </RichTextBox>
+
+            </Grid>
+        </Border>
+    </Grid>
+</Window>
