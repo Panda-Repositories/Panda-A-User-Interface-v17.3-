@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="__UI_____Panda_A_.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PandaVersion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">v17.3</Value>
+    </Setting>
+    <Setting Name="DLLFileName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Axon.dll</Value>
+    </Setting>
+    <Setting Name="DLLPipe" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Axon</Value>
+    </Setting>
+    <Setting Name="DiscordPC" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Volume" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="LastDLL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PandaTechnology</Value>
+    </Setting>
+    <Setting Name="Panda_CustomInject" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Panda_Autoexec" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Panda_BypassKey" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Panda_UseDevUI" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Panda_EnableDeveloperPanel" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Upgrade_CefSharp" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
