@@ -1,0 +1,7 @@
+E:\Panda Developer Folder\SkieHacker\[ UI ] - Panda A+\Config_Mgr\Panda Local Configuration\bin\Release\PandaLocalCore.dll.config
+E:\Panda Developer Folder\SkieHacker\[ UI ] - Panda A+\Config_Mgr\Panda Local Configuration\bin\Release\PandaLocalCore.dll
+E:\Panda Developer Folder\SkieHacker\[ UI ] - Panda A+\Config_Mgr\Panda Local Configuration\bin\Release\PandaLocalCore.pdb
+E:\Panda Developer Folder\SkieHacker\[ UI ] - Panda A+\Config_Mgr\Panda Local Configuration\obj\Release\Panda Local Configuration.csproj.CoreCompileInputs.cache
+E:\Panda Developer Folder\SkieHacker\[ UI ] - Panda A+\Config_Mgr\Panda Local Configuration\obj\Release\PandaLocalCore.dll
+E:\Panda Developer Folder\SkieHacker\[ UI ] - Panda A+\Config_Mgr\Panda Local Configuration\obj\Release\PandaLocalCore.pdb
+E:\Panda Developer Folder\SkieHacker\[ UI ] - Panda A+\Config_Mgr\Panda Local Configuration\obj\Release\Panda Local Configuration.csprojAssemblyReference.cache

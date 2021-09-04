@@ -1,0 +1,27 @@
+C:\[ UI ] - Panda A+\Config_Mgr\Panda Local Configuration\bin\Debug\PandaLocalCore.dll.config
+C:\[ UI ] - Panda A+\Config_Mgr\Panda Local Configuration\bin\Debug\PandaLocalCore.dll
+C:\[ UI ] - Panda A+\Config_Mgr\Panda Local Configuration\bin\Debug\PandaLocalCore.pdb
+C:\[ UI ] - Panda A+\Config_Mgr\Panda Local Configuration\obj\Debug\Panda Local Configuration.csproj.CoreCompileInputs.cache
+C:\[ UI ] - Panda A+\Config_Mgr\Panda Local Configuration\obj\Debug\PandaLocalCore.dll
+C:\[ UI ] - Panda A+\Config_Mgr\Panda Local Configuration\obj\Debug\PandaLocalCore.pdb
+C:\[ UI ] - Panda A+\Config_Mgr\Panda Local Configuration\obj\Debug\Panda Local Configuration.csprojAssemblyReference.cache
+D:\Panda Developer Folder\SkieHacker\[ UI ] - Panda A+\Config_Mgr\Panda Local Configuration\bin\Debug\PandaLocalCore.dll.config
+D:\Panda Developer Folder\SkieHacker\[ UI ] - Panda A+\Config_Mgr\Panda Local Configuration\bin\Debug\PandaLocalCore.dll
+D:\Panda Developer Folder\SkieHacker\[ UI ] - Panda A+\Config_Mgr\Panda Local Configuration\bin\Debug\PandaLocalCore.pdb
+D:\Panda Developer Folder\SkieHacker\[ UI ] - Panda A+\Config_Mgr\Panda Local Configuration\obj\Debug\Panda Local Configuration.csproj.CoreCompileInputs.cache
+D:\Panda Developer Folder\SkieHacker\[ UI ] - Panda A+\Config_Mgr\Panda Local Configuration\obj\Debug\PandaLocalCore.dll
+D:\Panda Developer Folder\SkieHacker\[ UI ] - Panda A+\Config_Mgr\Panda Local Configuration\obj\Debug\PandaLocalCore.pdb
+E:\Panda Developer Folder\SkieHacker\[ UI ] - Panda A+\Config_Mgr\Panda Local Configuration\bin\Debug\PandaLocalCore.dll.config
+E:\Panda Developer Folder\SkieHacker\[ UI ] - Panda A+\Config_Mgr\Panda Local Configuration\bin\Debug\PandaLocalCore.dll
+E:\Panda Developer Folder\SkieHacker\[ UI ] - Panda A+\Config_Mgr\Panda Local Configuration\bin\Debug\PandaLocalCore.pdb
+E:\Panda Developer Folder\SkieHacker\[ UI ] - Panda A+\Config_Mgr\Panda Local Configuration\obj\Debug\Panda Local Configuration.csprojAssemblyReference.cache
+E:\Panda Developer Folder\SkieHacker\[ UI ] - Panda A+\Config_Mgr\Panda Local Configuration\obj\Debug\Panda Local Configuration.csproj.CoreCompileInputs.cache
+E:\Panda Developer Folder\SkieHacker\[ UI ] - Panda A+\Config_Mgr\Panda Local Configuration\obj\Debug\PandaLocalCore.dll
+E:\Panda Developer Folder\SkieHacker\[ UI ] - Panda A+\Config_Mgr\Panda Local Configuration\obj\Debug\PandaLocalCore.pdb
+H:\Panda Developer Folder\SkieHacker\[ UI ] - Panda A+\Config_Mgr\Panda Local Configuration\bin\Debug\PandaLocalCore.dll.config
+H:\Panda Developer Folder\SkieHacker\[ UI ] - Panda A+\Config_Mgr\Panda Local Configuration\bin\Debug\PandaLocalCore.dll
+H:\Panda Developer Folder\SkieHacker\[ UI ] - Panda A+\Config_Mgr\Panda Local Configuration\bin\Debug\PandaLocalCore.pdb
+H:\Panda Developer Folder\SkieHacker\[ UI ] - Panda A+\Config_Mgr\Panda Local Configuration\obj\Debug\Panda Local Configuration.csproj.AssemblyReference.cache
+H:\Panda Developer Folder\SkieHacker\[ UI ] - Panda A+\Config_Mgr\Panda Local Configuration\obj\Debug\Panda Local Configuration.csproj.CoreCompileInputs.cache
+H:\Panda Developer Folder\SkieHacker\[ UI ] - Panda A+\Config_Mgr\Panda Local Configuration\obj\Debug\PandaLocalCore.dll
+H:\Panda Developer Folder\SkieHacker\[ UI ] - Panda A+\Config_Mgr\Panda Local Configuration\obj\Debug\PandaLocalCore.pdb

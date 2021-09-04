@@ -1,0 +1,25 @@
+﻿<Window x:Class="__UI_____Panda_A_.Main_Interface.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:__UI_____Panda_A_.Main_Interface"
+        mc:Ignorable="d"
+        Title="ScriptsViewer"
+        Width="110"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        Background="{x:Null}"
+        ShowInTaskbar="False"
+        Topmost="True"
+        SizeToContent="Height" Height="27.5">
+    <Grid>
+        <Border CornerRadius="5" BorderThickness="3" x:Name="MainBorder" BorderBrush="#FF202020" HorizontalAlignment="Left" Height="28" VerticalAlignment="Top" Width="110" Background="#FF131313">
+            <Grid x:Name="ButtonGrid">
+                <Button Style="{DynamicResource NoBorder}" Content="Load" HorizontalAlignment="Left" VerticalAlignment="Top" Width="104" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" Height="22" Click="Button_Click"/>
+            </Grid>
+
+        </Border>
+
+    </Grid>
+</Window>
